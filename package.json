@@ -2,7 +2,6 @@
     "name": "vscode-cli",
     "displayName": "vscode-cli",
     "description": "Execute vscode command from vscode command prompt.",
-    "icon": "images/vscode.png",
     "version": "1.0.0",
     "publisher": "pkosta2006",
     "license": "SEE LICENSE IN LICENSE.md",
